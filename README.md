@@ -1,17 +1,17 @@
 # AI Interview Preparation Platform
 
-## 📌 Project Overview
+## Project Overview
 
 The AI Interview Preparation Platform is a web-based application designed to help students practise interview questions for technical and HR interviews. Users can select a topic, answer questions, and receive basic feedback on their responses.
 
-## 🎯 Objectives
+##  Objectives
 
 * Help students practise interview questions.
 * Improve interview preparation and confidence.
 * Provide basic feedback on submitted answers.
 * Offer a simple and user-friendly interface.
 
-## ✨ Features
+##  Features
 
 * Topic selection for Java, Python, SQL, and HR interviews.
 * Random interview question generation from predefined question sets.
@@ -20,12 +20,12 @@ The AI Interview Preparation Platform is a web-based application designed to hel
 * Word count and improvement suggestions.
 * Responsive web interface.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Node.js, Express.js
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ai-interview-preparation-platform/
@@ -40,7 +40,7 @@ ai-interview-preparation-platform/
 └── .gitignore
 ```
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Prerequisites
 
@@ -76,7 +76,7 @@ Install Node.js on your computer.
 
    `http://localhost:3000`
 
-## ⚙️ How It Works
+## How It Works
 
 1. Select an interview topic.
 2. Click the button to get a question.
@@ -86,7 +86,7 @@ Install Node.js on your computer.
 
 **Note:** The current version uses predefined questions and basic answer-length-based scoring. It does not yet use an AI model to evaluate answers.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Integrate an AI API for intelligent answer evaluation.
 * Add user registration and login.
@@ -94,6 +94,6 @@ Install Node.js on your computer.
 * Provide topic-wise performance reports.
 * Add speech-based interview practice.
 
-## 👩‍💻 Author
+## Author
 
 Developed as a student project to support interview preparation and practice.
